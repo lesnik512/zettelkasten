@@ -1,0 +1,1 @@
+using [[closures]], we can split the execution of a function which takes multiple arguments into more steps

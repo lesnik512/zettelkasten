@@ -1,0 +1,3 @@
+- Data Manipulation Language
+- subset of [[SQL]]
+- typically refers to INSERT, UPDATE and DELETE, otherwise known as [[CRUD]]

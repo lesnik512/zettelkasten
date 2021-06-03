@@ -1,0 +1,4 @@
+- [[programming paradigm]], imposes discipline on indirect transfer of control
+- Function became constructor, locals vars – instance vars, nested functions – methods.
+- [[polymorphism]] through disciplined use of [[function pointers]]
+- ability through [[polymorphism]] to gain control over source code dependencies

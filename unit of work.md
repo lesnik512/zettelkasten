@@ -1,0 +1,1 @@
+[[design pattern]] where the system transparently keeps track of changes to objects and periodically flushes all those pending changes out to the storage

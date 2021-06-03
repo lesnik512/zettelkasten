@@ -1,0 +1,2 @@
+- [[SOLID]] principle, objects of a superclass shall be replaceable with objects of its subclasses without breaking the application.
+- can, and should, be extended to the level of architecture.

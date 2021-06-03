@@ -1,0 +1,1 @@
+acronym for “CReate, Update, Delete”

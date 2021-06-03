@@ -1,0 +1,2 @@
+- [[SOLID]] principle, a software artifact should be open for extension but closed for modification.
+- The goal is to make the system easy to extend without incurring a high impact of change.

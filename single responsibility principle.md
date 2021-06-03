@@ -1,0 +1,1 @@
+- [[SOLID]] principle, a module should be responsible to one, and only one, actor.

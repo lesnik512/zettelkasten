@@ -1,1 +1,1 @@
-A common mistake in [[Python]] 2 to override only __eq__ and forget about [[__ne__]]. In [[Python]] 3 [[__ne__]] can be omitted
+A common mistake in [[00python]] 2 to override only __eq__ and forget about [[__ne__]]. In [[00python]] 3 [[__ne__]] can be omitted

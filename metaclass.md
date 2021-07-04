@@ -1,0 +1,1 @@
+In [[00python]], type is a metaclass, of which classes are instances
